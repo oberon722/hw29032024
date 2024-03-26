@@ -12,8 +12,8 @@
 В качестве примера чисел мы можем использовать фиксированные значения.
 
 # Код разделен на модули по классам:
-·	Complex,
-·	ComplexCalculator
-·	BasicComplexCalculator
-·	Main
+# Complex,
+# ComplexCalculator
+# BasicComplexCalculator
+# Main
 Каждый модуль содержит отдельную функциональность, что делает код более читаемым и поддерживаемым.
